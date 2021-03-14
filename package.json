@@ -1,0 +1,23 @@
+{
+  "name": "resuelve-prueba-ing-backend",
+  "version": "1.0.0",
+  "description": "Prueba backend en Resuelve",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmanuelolvera/resuelve-prueba-ing-backend.git"
+  },
+  "author": "Emmanuel Olvera Hernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmanuelolvera/resuelve-prueba-ing-backend/issues"
+  },
+  "homepage": "https://github.com/emmanuelolvera/resuelve-prueba-ing-backend#readme"
+}
