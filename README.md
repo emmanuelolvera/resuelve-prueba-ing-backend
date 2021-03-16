@@ -63,7 +63,7 @@ Se creo usando Express.JS (https://expressjs.com) y la prueba se realizo mediant
 2. Sencilla
 ---
 
-Para fácil distribución se crearon en la carpeta `/executables` archivos ejecutables en donde solo se abren y ya estará corriendo el servior sin necesidad de hacer más
+Para fácil distribución se crearon en la carpeta `\executables` archivos ejecutables en donde solo se abren y ya estará corriendo el servior sin necesidad de hacer más
 
 ## Conclusión
 
